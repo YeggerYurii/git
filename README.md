@@ -139,6 +139,3 @@ git stash list   # Show saved stashes
 
 ---
 
-✅ **This README.md is structured, clean, and beginner-friendly!** 🚀  
-Feel free to use it, modify it, and share it!  
-Happy coding! 💻✨
